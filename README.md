@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qatotcel8we747n4?svg=true)](https://ci.appveyor.com/project/Yurii26672/aqa-2-3-1delivery-card)
